@@ -1,8 +1,6 @@
 # Useful Links for Destiny 2
 
-This is a collection of useful links for Destiny 2. This primarily exists to share with players of Destiny 2. Feel free to contribute links to the project.
-
-I will be organizing these based on use or purpose, and will be including a brief description.
+This is a collection of useful links for Destiny 2. This primarily exists to share with players of Destiny 2. I will be organizing these based on use or purpose, and will be including a brief description.
 
 ## The Links
 
